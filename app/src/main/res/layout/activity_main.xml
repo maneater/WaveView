@@ -11,4 +11,12 @@
             android:id="@+id/vWaveView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
+
+    <TextView
+            android:layout_centerInParent="true"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:layout_width="wrap_content"
+            android:text="Logo"
+            android:layout_height="wrap_content"/>
 </RelativeLayout>
